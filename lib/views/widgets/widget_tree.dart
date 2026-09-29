@@ -8,7 +8,7 @@ import 'package:s1_r8_at1_ppdm/views/screens/players_screen.dart';
 import 'package:s1_r8_at1_ppdm/views/widgets/drawer_widget.dart';
 
 class WidgetTree extends StatelessWidget {
-  new({super.key});
+  WidgetTree({super.key});
 
   List<Widget> pages = [
     HomeScreen(),
